@@ -64,12 +64,12 @@ body a {
   position: absolute;
   z-index: 10;
   text-shadow: 10px 5px 13px rgb(0, 0, 0);
-  font-size: 60px;
+  font-size: 3.5rem;
   font-weight: 100;
   text-transform: capitalize;
   line-height: 110%;
   color: #141313;
-  margin-top: 210px;
+  margin-top: 130px;
   margin-left: 20px;
   font-family: 'Pushster', cursive;
 }
@@ -171,7 +171,6 @@ body a {
 
 @media only screen and (max-width: 540px){
   .wrapper .lwrap h1{
-    font-size: 4rem;
     color: white;
   }
 
